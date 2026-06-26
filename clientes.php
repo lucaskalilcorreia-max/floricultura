@@ -3,13 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="css/estilo.css">
+<link rel="stylesheet" href="./css/estilo.css">
 </head>
 <body>
 
 <div class="navbar">
     <h2>Clientes</h2>
-    <a href="index.php">Voltar</a>
+    <a href="./index.html">Voltar</a>
 </div>
 
 <div class="container">
